@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html len="en"> 
+
+<head> 
+<meta charset="utf-8">
+<title>Casscade of HTML</title>
+<link rel="stylesheet" href="external.css">
+
+<style>
+p{
+	color: maroon;
+}
+article{
+	color: yellow;
+}
+</style>
+</head>
+
+<body>
+<h1> ORIGIN EXAMPLE</h1>
+<article> Try this! 
+	<p> The rule is simple: last declaration wins </p>
+</article>
+
+<p style="color: black;">If there is no conflict, declarations merge into one rule</p>
+
+</body>
+
+</html>

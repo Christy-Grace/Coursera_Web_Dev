@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+<head>
+	<meta charsey="ut-8">
+</head>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html len="en"> 
+
+<head> 
+	<meta charset="utf-8">
+	<title>Pseudo Class Selectors</title>
+</head>
+
+<style>
+</style>
+
+<body>
+</body>
